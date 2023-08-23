@@ -1,8 +1,8 @@
-# DIO - Projeto: Criando um Sistema Bancário com Python
+# DIO - Projeto: Criando um Sistema Bancário com Python - Versão 2
 
-Sistema simples por linha de comando para simular depósitos, saques e extrato.
+Sistema simples por linha de comando para simular depósitos, saques e extrato. Nesta versão foram adicionadas as opções de cadastro de usuários e contas, e também de listagem de usuários e contas cadastradas.
 
-A modelagem foi realizada utilizado apenas funções e variáveis globais, com validação dos dados informados pelo usuário, atendendo as regras definidas para o projeto:
+A modelagem foi realizada utilizado apenas funções e variáveis passadas como parâmetro, com validação dos dados numéricos informados pelo usuário, atendendo as regras definidas para o projeto:
 
 - Depósito apenas de valores positivos;
 - Saque somente se houver saldo;
@@ -13,4 +13,4 @@ Foi adicionada também uma mensagem final quando o usuário sai do sistema, base
 
 ---
 
-Projeto realizado como parte do [Projeto do Curso de Python](https://web.dio.me/project/desafio-de-projeto-criando-um-sistema-bancario/learning/fa812356-0da6-4a85-9ffb-8b255748a288) da [DIO](https://web.dio.me).
+Projeto realizado como parte do [Projeto do Curso de Python](https://web.dio.me/lab/otimizando-o-sistema-bancario-com-funcoes-python/learning/82a55799-cfb8-479d-85a3-4982e29c90ba) da [DIO](https://web.dio.me).
