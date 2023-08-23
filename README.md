@@ -1,4 +1,4 @@
-# DIO - Projeto: Criando um Sistema Bancário com Python
+# DIO - Projeto: Criando um Sistema Bancário com Python - Versão 1
 
 Sistema simples por linha de comando para simular depósitos, saques e extrato.
 
